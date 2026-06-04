@@ -1,4 +1,4 @@
-/* ==========================================================================
+    /* ==========================================================================
    GLOBAL STYLES & VARIABLES
    ========================================================================== */
 
@@ -2053,7 +2053,7 @@ tr:hover td {
 .ph-title {
     font-size: 24px;
     font-weight: 600;
-    font-family: "Shadows Into Light", cursive, var(--sans);
+    font-family: var(--font-sans);
     font-style: italic;
     color: var(--tx);
 }
@@ -2074,7 +2074,7 @@ tr:hover td {
 
 .step-title {
     font-size: 18px;
-    font-family: "Shadows Into Light", cursive, var(--sans);
+    font-family: var(--font-sans);
     font-style: italic;
     font-weight: 600;
     color: var(--tx);
@@ -2311,7 +2311,7 @@ tr:hover td {
 }
 .modal-title {
     font-size: 18px;
-    font-family: "Shadows Into Light", cursive, var(--sans);
+    font-family: var(--font-sans);
     font-style: italic;
     font-weight: 600;
     color: var(--tx);
@@ -2489,7 +2489,7 @@ tr:hover td {
 .pm-title {
     font-size: 24px;
     font-weight: 600;
-    font-family: "Shadows Into Light", cursive, var(--sans);
+    font-family: var(--font-sans);
     font-style: italic;
     color: var(--tx);
 }
@@ -2510,7 +2510,7 @@ tr:hover td {
 }
 .pm-card-title {
     font-size: 18px;
-    font-family: "Shadows Into Light", cursive, var(--sans);
+    font-family: var(--font-sans);
     font-style: italic;
     font-weight: 600;
     color: var(--tx);
@@ -2640,7 +2640,7 @@ tr:hover td {
 .pz-title {
     font-size: 24px;
     font-weight: 600;
-    font-family: "Shadows Into Light", cursive, var(--sans);
+    font-family: var(--font-sans);
     font-style: italic;
     color: var(--tx);
 }
@@ -2661,7 +2661,7 @@ tr:hover td {
 }
 .pz-card-title {
     font-size: 18px;
-    font-family: "Shadows Into Light", cursive, var(--sans);
+    font-family: var(--font-sans);
     font-style: italic;
     font-weight: 600;
     color: var(--tx);
@@ -2795,7 +2795,7 @@ tr:hover td {
 .rw-title {
     font-size: 24px;
     font-weight: 600;
-    font-family: "Shadows Into Light", cursive, var(--sans);
+    font-family: var(--font-sans);
     font-style: italic;
     color: var(--tx);
 }
@@ -2836,7 +2836,7 @@ tr:hover td {
     font-size: 13px;
     outline: none;
     font-style: italic;
-    font-family: "Shadows Into Light", cursive, var(--sans);
+    font-family: var(--font-sans);
 }
 .rw-search-input-wrap input::placeholder {
     color: var(--tx3);
@@ -2861,7 +2861,7 @@ tr:hover td {
 .rw-table {
     width: 100%;
     border-collapse: collapse;
-    font-family: "Shadows Into Light", cursive, var(--sans);
+    font-family: var(--font-sans);
     font-style: italic;
     font-size: 14px;
 }
